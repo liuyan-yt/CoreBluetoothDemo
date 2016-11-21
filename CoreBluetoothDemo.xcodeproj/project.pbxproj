@@ -79,9 +79,9 @@
 				C21E89B11DD969630080FD9B /* Main.storyboard */,
 				C28689671DD994C300621F33 /* 23e34efd81e423c22e9964c3cf675f00.jpg */,
 				C28689691DD9B6BE00621F33 /* 606808b7401f33e956b50e7ab3b43810.jpg */,
-				C21E89B41DD969630080FD9B /* Assets.xcassets */,
 				C21E89B61DD969630080FD9B /* LaunchScreen.storyboard */,
 				C21E89B91DD969630080FD9B /* Info.plist */,
+				C21E89B41DD969630080FD9B /* Assets.xcassets */,
 				C21E89A81DD969630080FD9B /* Supporting Files */,
 			);
 			path = CoreBluetoothDemo;
